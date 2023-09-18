@@ -28,7 +28,8 @@
 [Mariadb](https://mariadb.com/kb/en/documentation/)
 
 ## Bind9
-[Bind9](https://downloads.isc.org/isc/bind9/cur/9.19/doc/arm/Bv9ARM.pdf)
+[Bind9](https://downloads.isc.org/isc/bind9/cur/9.19/doc/arm/Bv9ARM.pdf)  
+  
 [참고](https://drive.google.com/file/d/10ebEMesNgKYXNM98gNknWIl_eRxBK_Be/view)
 
 ## nfs-kernel-server
